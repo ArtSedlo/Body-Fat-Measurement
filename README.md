@@ -66,3 +66,19 @@ _Working on the third specific objective_, conduct thematic analysis of clinicia
 _To address fourth specific objective_, we will synthesize evidence from Objectives 1–3 into clinical recommendations using a modified Delphi consensus process involving multidisciplinary experts. A decision matrix will rank methods by accuracy, cost-effectiveness, and feasibility, weighted by GRADE criteria. Two Delphi rounds will refine recommendations, with consensus defined as ≥75% agreement. Final guidance will be tailored to clinical vs. research settings and validated against WHO/ADA guidelines. Open-access decision aids (e.g., flowcharts) will be developed to enhance implementation. 
 
 **Dissemination of study results**. The project will result in writing and submitting a research paper. Also, we will present our findings at national and international conferences for students and experts in the field of radiology and nutrition. 
+
+**(3) References**
+
+
+1.	Jeong SM, Jung JH, Yang YS, Kim W, Cho IY, Lee YB, et al. 2023 Obesity Fact Sheet: Prevalence of Obesity and Abdominal Obesity in Adults, Adolescents, and Children in Korea from 2012 to 2021. J Obes Metab Syndr. 2024 Mar 30;33(1):27–35. 
+2.	Borga M, West J, Bell JD, Harvey NC, Romu T, Heymsfield SB, et al. Advanced Body Composition Assessment: From Body Mass Index to Body Composition Profiling. Journal of Investigative Medicine. 2018 Jun 1;66(5):1–9. 
+3.	Piqueras P, Ballester A, Durá-Gil J V., Martinez-Hervas S, Redón J, Real JT. Anthropometric Indicators as a Tool for Diagnosis of Obesity and Other Health Risk Factors: A Literature Review. Front Psychol. 2021 Jul 9;12. 
+4.	Sweatt K, Garvey WT, Martins C. Strengths and Limitations of BMI in the Diagnosis of Obesity: What is the Path Forward? Curr Obes Rep. 2024 Jul 3;13(3):584–95. 
+5.	Thomas EL, Frost G, Taylor-Robinson SD, Bell JD. Excess body fat in obese and normal-weight subjects. Nutr Res Rev. 2012 Jun 25;25(1):150–61. 
+6.	Ripka WL, Cintra-Andrade JH, Ulbricht L. A century of skinfolds for body composition estimation: what we learned? Revista Brasileira de Cineantropometria & Desempenho Humano. 2022;24. 
+7.	Lu F, Fan J, Li F, Liu L, Chen Z, Tian Z, et al. Abdominal adipose tissue and type 2 diabetic kidney disease: adipose radiology assessment, impact, and mechanisms. Abdominal Radiology. 2023 Oct 17;49(2):560–74. 
+8.	Guss CE, McAllister A, Gordon CM. DXA in Children and Adolescents. Journal of Clinical Densitometry. 2021 Jan;24(1):28–35. 
+9.	Börgeson E, Tavajoh S, Lange S, Jessen N. The challenges of assessing adiposity in a clinical setting. Nat Rev Endocrinol. 2024 Oct 15;20(10):615–26. 
+10.	Campa F, Coratella G, Cerullo G, Noriega Z, Francisco R, Charrier D, et al. High-standard predictive equations for estimating body composition using bioelectrical impedance analysis: a systematic review. J Transl Med. 2024 May 29;22(1):515. 
+11.	Son JW, Han B, Bennett JP, Heymsfield S, Lim S. Development and clinical application of bioelectrical impedance analysis method for body composition assessment. Obesity Reviews. 2025 Jan 30;26(1). 
+
