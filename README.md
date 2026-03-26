@@ -46,3 +46,14 @@ This systematic review and meta-analysis was conducted in accordance with the Pr
 **Study design and data source**. We will systematically search literature in the following electronic databases: PubMed, Embase, Web of Science, and Scopus, from inception to June, 2025, using a combination of keywords and controlled vocabulary terms related to "bioelectrical impedance," "dual-energy X-ray absorptiometry," "computed tomography," "MRI," "anthropometry," "body composition," and "fat mass". 
 
 **Selection process**. All identified records will be uploaded to Covidence software for automatic deduplication. The remaining papers will be independently screened by two reviewers in a two-stage process: (1) title and abstract screening, followed by (2) full-text review for eligibility. Disagreements will be resolved by consensus or, if necessary, through consultation with a third reviewer. A PRISMA flow diagram will be used to illustrate the selection process.
+
+**Data extraction**. Independent reviewers will extract data using a standardized form. Extracted variables will include:  
+•	Study characteristics (author, year, country, sample size, study design)  
+•	Population characteristics (age, sex, clinical condition if applicable)  
+•	Assessment methods (type of BIA device, imaging modality, anthropometric measures)  
+•	Statistical outcomes (Pearson’s or Spearman’s correlation coefficients between measurement methods, Bland-Altman bias/limits of agreement, and diagnostic metrics such as sensitivity/specificity)  
+•	Stratified data (e.g., sex-specific or age-specific correlations, if available)  
+•	Cost evaluation data (direct and indirect costs)  
+•	Feasibility barriers (e.g., portability, scan duration) and regulatory approvals).  
+Any discrepancies were resolved through discussion.  
+
